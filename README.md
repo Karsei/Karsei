@@ -1,6 +1,6 @@
 * Backend Developer
   + Languages
-    + Java, PHP, Javascript, Typescript
+    + Java, PHP, JavaScript, TypeScript
     + 가볍게 이용해본 언어: Go, Python, C#
     + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어...: ActionScript, SourcePawn
   + Framework
@@ -16,7 +16,7 @@
     + React [JavaScript - frontend]
       + React 16
       + SPA
-      + Ant Design 3 (Bootstrap)
+      + with Ant Design 3 (Bootstrap)
   + Stack Experiences
     + Kubernetes
     + Apache Kafka, Graylog, ELK
