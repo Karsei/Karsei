@@ -3,7 +3,7 @@
     + Java, PHP, JavaScript, TypeScript
     + 가볍게 이용해본 언어: Go, Python, C#
     + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어...: ActionScript, SourcePawn
-  + Framework
+  + Recently used Frameworks
     + Spring Framework [Java]
       + Spring Boot (with Security, Actuator, JPA(Hibernate), MyBatis, so on)
       + Spring Cloud for MSA
