@@ -1,6 +1,6 @@
 * Backend Developer
   + Languages
-    + Java, PHP, JavaScript, TypeScript
+    + **Java, PHP**, JavaScript, TypeScript
     + 가볍게 자주 이용해본 언어 - Go, Python, C#
     + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어... - ActionScript, SourcePawn
   + Recently used Frameworks
@@ -23,8 +23,8 @@
     + Sentry
     + Continuous Integration/Deployment (CI/CD) - gitlab
   + DB Experiences
-    + Oracle (Best)
-    + Redis (Best
+    + **Oracle**
+    + **Redis**
     + MySQL / Mariadb
     + MongoDB
 
