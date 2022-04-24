@@ -2,8 +2,7 @@
   + Languages
     + Java, PHP, Javascript, Typescript
     + 가볍게 이용해본 언어: Go, Python, C#
-    + 재미로 하는 언어: SourcePawn
-    + 아주 옛날엔 했지만 이제 사용 안하는 언어...: ActionScript
+    + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어...: ActionScript, SourcePawn
   + Framework
     + Spring Framework [Java]
       + Spring Boot (with Security, Actuator, JPA(Hibernate), MyBatis, so on)
