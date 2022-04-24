@@ -17,6 +17,7 @@
       + React 16
       + SPA
       + with Ant Design 3 (Bootstrap)
+    + ...
   + Stack Experiences
     + Kubernetes
     + Apache Kafka, Graylog, ELK
