@@ -9,7 +9,6 @@
       + Spring Cloud for MSA
     + CodeIgniter [PHP]
       + Version 2(php 5+), 3(php 7+), 4(php 8)
-      + hated framework
     + Express [JavaScript/TypeScript]
       + Node 12 ~ 16+
       + for Discord Bot, Crawling and simple web application
