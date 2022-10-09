@@ -6,7 +6,7 @@ Jin-Yong Lee (aka. Karsei)
 
 Backend programmer in Gabia Inc. (2018.07 ~ )
 
-> I had used BitBucket for private repositories since 2012 and at now uses Github and self-hosted GitLab in company
+> I had used BitBucket for private repositories since 2012. But now, I am using Github for myself and self-hosted GitLab in company
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=karsei&show_icons=true&theme=tokyonight)
 
