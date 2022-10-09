@@ -6,11 +6,27 @@ Jin-Yong Lee (aka. Karsei)
 
 Backend programmer in Gabia Inc. (2018.07 ~ )
 
+> I had used BitBucket for private repositories since 2012 and at now uses Github and self-hosted GitLab in company
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=karsei&show_icons=true&theme=tokyonight)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsei&layout=compact)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsei&layout=compact&hide=c%23)
 
-## Techs
+## Tech Stacks
+
+### used as the main
+
+![java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)  ![codeigniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=CodeIgniter&logoColor=white) ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### used as at least once
+
+![angularjs](https://img.shields.io/badge/AngularJs-E23237?style=for-the-badge&logo=angularjs&logoColor=black)
+
+### currently learning for advanced
+
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+
+### details
 
 * Languages
   + **Java, PHP**, JavaScript, TypeScript
