@@ -1,9 +1,22 @@
-* Backend Developer
-  + Languages
-    + **Java, PHP**, JavaScript, TypeScript
-    + 가볍게 자주 이용해본 언어 - Go, Python, C#
-    + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어... - ActionScript, SourcePawn
-  + Recently used Frameworks
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Karsei%20Github%20Profile&descAlignY=51&descAlign=62)
+
+# Introduce
+
+Jin-Yong Lee (aka. Karsei)
+
+Backend programmer in Gabia Inc. (2018.07 ~ )
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karsei&show_icons=true&theme=tokyonight)
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsei&layout=compact)
+
+## Techs
+
+* Languages
+  + **Java, PHP**, JavaScript, TypeScript
+  + 가볍게 자주 이용해본 언어 - Go, Python, C#
+  + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어... - ActionScript, SourcePawn
+* Recently used Frameworks
     + Spring Framework [Java]
       + Spring Boot (with Security, Actuator, JPA, MyBatis, kafka ... so on)
       + Spring Cloud for MSA (with sleuth, hystrix, ...)
