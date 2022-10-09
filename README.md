@@ -26,16 +26,11 @@ Backend programmer in Gabia Inc. (2018.07 ~ )
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 
-### details
+### detail
 
-* Languages
-  + **Java, PHP**, JavaScript, TypeScript
-  + 가볍게 자주 이용해본 언어 - Go, Python, C#
-  + 아주 옛날에 재미로 했지만 이제 사용 안하는 언어... - ActionScript, SourcePawn
 * Recently used Frameworks
     + Spring Framework [Java]
-      + Spring Boot (with Security, Actuator, JPA, MyBatis, kafka ... so on)
-      + Spring Cloud for MSA (with sleuth, hystrix, ...)
+      + Spring Boot (2.5.6 ~ )
     + CodeIgniter [PHP]
       + Version 2(php 5+), 3(php 7+), 4(php 8)
     + Express [JavaScript/TypeScript]
