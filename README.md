@@ -51,6 +51,7 @@ Backend programmer in Gabia Inc. (2018.07 ~ )
 
 ### currently learning for advanced
 
+![hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 
