@@ -41,6 +41,7 @@ Backend programmer in Gabia Inc. (2018.07 ~ )
 
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![confluence](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=black)
+![redmine](https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=Redmine&logoColor=black)
 
 ### IDE
 
