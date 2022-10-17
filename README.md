@@ -6,7 +6,7 @@ Jin-Yong Lee (aka. Karsei)
 
 Backend programmer in Gabia Inc. (2018.07 ~ )
 
-I am responsible for product and policy system-related development work, as well as maintenance and migration of legacy PHP code to the MVC framework.
+I am responsible for product and policy system-related development work, as well as maintenance and migration of legacy PHP code to the MVC framework. And I'm also working on the front-end for the back office as needed.
 
 > I had used BitBucket for private repositories since 2012. But now, I am using Github for myself and self-hosted GitLab in company
 
